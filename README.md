@@ -1,6 +1,6 @@
 # Higgs Boson Machine Learning Project
 
-Hello! This is the read.me for the Higgs Boson Machine Learning project by Haakon Melgaard Sveen, Haakon Skirstad Grini and Tor Magnus Naesset. In this project we are using different Machine Learning methods to correctly classify between decay by the Higgs Boson or just background. By setting up this project you can run the files and get a prediction score of XX%, and you could also modify methods to get a even better score.
+Hello! This is the read.me for the Higgs Boson Machine Learning project by Haakon Melgaard Sveen, Haakon Skirstad Grini and Tor Magnus Naesset. In this project we are using different Machine Learning methods to correctly classify between decay by the Higgs Boson or just background. By setting up this project you can run the files and get a prediction score of 74,47%, and you could also modify methods to get a even better score.
 
 ### Setup:
 
