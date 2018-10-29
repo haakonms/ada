@@ -1,12 +1,12 @@
-### Higgs Boson Machine Learning Project
+# Higgs Boson Machine Learning Project
 
 Hello! This is the read.me for the Higgs Boson Machine Learning project by Haakon Melgaard Sveen, Haakon Skirstad Grini and Tor Magnus Naesset. In this project we are using different Machine Learning methods to correctly classify between decay by the Higgs Boson or just background. By setting up this project you can run the files and get a prediction score of XX%, and you could also modify methods to get a even better score.
 
-# Setup:
+### Setup:
 
 Before starting this project it is extremely important that you have the .csv-files from this challenge in the same directory as the .py-files. These files can be found on https://www.kaggle.com/c/higgs-boson/data. Also make sure you have the numpy installed on your computer.
 
-# Content:
+### Content:
 
 There are X different python files in this repository. 
 Implementations.py covers the six different machine learning methods that was required to make during this project, in addtition to Gradient Descent and Stochastic Gradient Descent.
